@@ -1,0 +1,27 @@
+input[type="text"]
+{
+	color:red;
+}
+input[type="Number"]
+{
+	color:blue;
+}
+input[type="password"]
+{
+	color:green;
+}
+input[type="email"]
+{
+	color:yellow;
+}
+a[href]
+{
+	color:violet;
+	background-color:yellow;
+}
+img[src]
+{
+	border:30px solid black;
+	height:300px;
+	width:300px;
+}

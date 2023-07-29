@@ -1,0 +1,35 @@
+p
+{
+	color:red;
+	font-size:30px;
+	font-family:fantasy;
+
+}
+
+div
+{
+	background-color:darkpink;
+	height:300px;
+	width:150px;
+}
+
+#d1{
+	background-color:red;
+	height:300px;
+	width:150px;
+	float: left;
+}
+
+#d2{
+	background-color:blue;
+	height:300px;
+	width:150px;
+	float: left;
+}
+
+*
+{
+	color:blue;
+	font-size:40px;
+	font-family:cursive;
+}

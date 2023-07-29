@@ -1,0 +1,34 @@
+#abc
+{ 
+	border:5px solid darkred ;
+	font-size:50px;
+	font-family:cursive;
+}
+
+#def
+{ 
+	border:5px solid darkred ;
+	font-size:50px;
+	font-family:italic;
+}
+
+#Home
+{ 
+	border:5px solid darkred ;
+	font-size:50px;
+	font-family:fantasy;
+}
+
+#Name
+{ 
+	border:5px solid darkred ;
+	font-size:50px;
+	font-family:italic;
+}
+
+#About
+{ 
+	border:5px solid darkred ;
+	font-size:50px;
+	font-family:cursive;
+}

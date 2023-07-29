@@ -1,0 +1,27 @@
+a:link
+{
+	color:red;
+}
+a:visited
+{
+	color:green;
+}
+a:hover
+{
+	color:blue;
+}
+a:active
+{
+	color:aqua;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+div:hover
+{
+   height: 200px;
+   width: 200px;
+   background-color: red;
+}
